@@ -1,12 +1,17 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Kartikey Soni",
+      "titles": [ "Front-end Developer", "JavaScript Developer", "ReactJs Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/sonikartikey/",
           "class": "fab fa-github"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/kartikey-soni-13b157132/",
+          "class": "fab fa-linkedin"
         },
         {
           "name": "instagram",
@@ -14,54 +19,77 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile2.jpg"
     },
     "skills": {
       "icons": [
         {
           "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "class": "devicon-html5-plain"
         },
         {
           "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
+          "class": "devicon-css3-plain"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
+          "name": "ReactJs",
+          "class": "devicon-react-original"
         },
         {
           "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "class": "devicon-typescript-plain"
         },
         {
           "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
+          "class": "devicon-javascript-plain"
         },
         {
           "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "class": "devicon-sass-original"
         },
         {
           "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "class": "devicon-bootstrap-plain"
         },
         {
           "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "class": "devicon-mysql-plain"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-plain"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-jira-plain"
+        },
+        {
+          "name": "VS Code",
+          "class": "devicon-vscode-plain"
+        },
+        {
+          "name": "BitBucket",
+          "class": "devicon-bitbucket-original"
+        },
+        {
+          "name": "Material UI",
+          "class": "devicon-materialui-plain"
+        },
+        {
+          "name": "npm",
+          "class": "devicon-npm-original-wordmark"
+        },
+        {
+          "name": "Bamboo",
+          "class": "devicon-bamboo-original"
         }
       ]
     }
