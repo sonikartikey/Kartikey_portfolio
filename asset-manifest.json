@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Kartikey_portfolio/static/css/main.19c42021.chunk.css",
+    "main.js": "/Kartikey_portfolio/static/js/main.22e85e6f.chunk.js",
+    "main.js.map": "/Kartikey_portfolio/static/js/main.22e85e6f.chunk.js.map",
+    "runtime-main.js": "/Kartikey_portfolio/static/js/runtime-main.f9927047.js",
+    "runtime-main.js.map": "/Kartikey_portfolio/static/js/runtime-main.f9927047.js.map",
+    "static/css/2.d64471e2.chunk.css": "/Kartikey_portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.3ce688f3.chunk.js": "/Kartikey_portfolio/static/js/2.3ce688f3.chunk.js",
+    "static/js/2.3ce688f3.chunk.js.map": "/Kartikey_portfolio/static/js/2.3ce688f3.chunk.js.map",
+    "index.html": "/Kartikey_portfolio/index.html",
+    "precache-manifest.efba49a2398f69ca19c9d01bd9bcc263.js": "/Kartikey_portfolio/precache-manifest.efba49a2398f69ca19c9d01bd9bcc263.js",
+    "service-worker.js": "/Kartikey_portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/Kartikey_portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.19c42021.chunk.css.map": "/Kartikey_portfolio/static/css/main.19c42021.chunk.css.map",
+    "static/js/2.3ce688f3.chunk.js.LICENSE.txt": "/Kartikey_portfolio/static/js/2.3ce688f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9927047.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.3ce688f3.chunk.js",
+    "static/css/main.19c42021.chunk.css",
+    "static/js/main.22e85e6f.chunk.js"
+  ]
+}
